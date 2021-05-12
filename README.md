@@ -12,3 +12,4 @@ as a hinderence but instead as a way to help them grow
 1. Add #, ##, or ###, for a header
 2. Add - to make bulletpoints
 3. Add numbers to make numbered lists
+4. You cann also have **bold** and __italic__
