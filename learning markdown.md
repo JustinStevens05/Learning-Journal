@@ -9,3 +9,11 @@ and easy for humans to read.
 * using #,##, and ### to get different sized headers
 * using two asteriks on both sides of a word to make it **bold**
 * using and underscore on both sides of a word to make it _italic_
+
+### You can also make lists in markdown
+these lists can be made in multiple ways such as
+1. using numbers like 1. 2. and 3. to make a numbered list
+2. using astricks to make bullet points
+
+### links can also be added
+such as https://github.com/JustinStevens05/reading-notes/blob/main/README.md 
