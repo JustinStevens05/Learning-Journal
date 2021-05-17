@@ -6,6 +6,6 @@ Syntax is what needs to be written for the code to be able to funtion. The synta
 and easy for humans to read.
 
 ###Some examples of the syntax are
--using #,##, and ### to get different sized headers
--using two asteriks on both sides of a word to make it **bold**
--using and underscore on both sides of a word to make it _italic_
+* using #,##, and ### to get different sized headers
+* using two asteriks on both sides of a word to make it **bold**
+* using and underscore on both sides of a word to make it _italic_
