@@ -15,4 +15,4 @@ as a hinderence but instead as a way to help them grow
 4. You can also have **bold** and _italic_
 
 ### here are the links to different projects
-[Learning journal](\learning markdown.md)
+[Learning journal](\learning_markdown.md)
