@@ -17,4 +17,4 @@ here are some things you need to know when using a terminal
 
 sometimes files can be hidden, to see hidden files you have to type ls -a
 
-[main_file](\README.md)
+[main_file](README.md)
