@@ -14,3 +14,5 @@ centralized version control is a single server is in charge of holding all the f
 
 ## Distributed version control
 distributed version control allows for multiple mirror files to made of a repository which allows for much safer storing
+
+[main_file](README.md)
