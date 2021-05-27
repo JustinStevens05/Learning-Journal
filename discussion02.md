@@ -12,7 +12,7 @@ you can move beween files using cd *name of file*
 
 ## some facts about linux
 here are some things you need to know when using a terminal
-- terminals are case sensative
+- terminals are case sensitive
 - terminals do not except spaces
 
 sometimes files can be hidden, to see hidden files you have to type ls -a
