@@ -7,3 +7,5 @@ Hi I am Justin Stevens and this is my repository from Code 102
 - [class 01](discussion01.md)
 - [class 02](discussion02.md)
 - [class 03](discussion03.md)
+- [class 04](discussion04.md)
+- [class 05](discussion05.md)
