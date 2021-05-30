@@ -9,3 +9,4 @@ Hi I am Justin Stevens and this is my repository from Code 102
 - [class 03](discussion03.md)
 - [class 04](discussion04.md)
 - [class 05](discussion05.md)
+- [class 06](discussion06.md)
