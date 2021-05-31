@@ -13,6 +13,6 @@ operators are are things that can be done to variable like math here are some ex
 - (+) can be used to add two numbers or put two strings together
 - (-) can be used to subtract to numbers
 - (*) can be used to multiply two numbers
-- (\) can be used to divide two numbers
+- ( \ ) can be used to divide two numbers
 
 [main_file](README.md)
