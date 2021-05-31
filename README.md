@@ -11,3 +11,4 @@ Hi I am Justin Stevens and this is my repository from Code 102
 - [class 05](discussion05.md)
 - [class 06](discussion06.md)
 - [class 07](discussion07.md)
+- [class 08](discussion08.md)
