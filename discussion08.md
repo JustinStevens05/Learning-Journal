@@ -7,8 +7,16 @@ loops come in two differen forms
 - while loops
 - for loops
 - do while loops
-- break loops
 
 loops can be used to repeat code a certain number of times like in the case of for loops or indefinatly until something happens like in while loops
+
+### While loops
+
+
+### For loops
+
+
+### Do while loops
+
 
 [main_file](README.md)
